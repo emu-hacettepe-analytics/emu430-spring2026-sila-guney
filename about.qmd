@@ -17,7 +17,7 @@ sidebar: false
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+
 
 2.  Firm bbb, position yyy, year yyy
 
