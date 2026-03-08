@@ -5,21 +5,19 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
+1.  ROKETSAN,Project Engineer (Candidate) , 2026
 
-2.  Firm yyy, position yyy, year yyy
 
 ## Internships
 
+1.  Firm TUSAŞ, position Project Engineer, 2025
 
-
-2.  Firm bbb, position yyy, year yyy
 
 # Projects
 
@@ -27,4 +25,4 @@ sidebar: false
 
 R, Quarto, Git, Python
 
-# Hobbies
+# Pilates
