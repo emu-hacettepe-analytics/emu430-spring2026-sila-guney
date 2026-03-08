@@ -1,7 +1,18 @@
 ---
-title: "Welcome to My Analytics Lab"
-sidebar: false 
+title: "Hello! Welcome to My Analytics Lab"
 ---
+
+# Hakkımda
+
+Industrial Engineering student at Hacettepe University.
+
+## İlgi Alanlar
+
+-   Data Analytics
+-   Energy Sector
+-   Sustainability
+
+------------------------------------------------------------------------
 
 Hello! My name is xxx xxxx.
 
@@ -9,5 +20,4 @@ This is my personal webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
 
-This is our template.
-Hello My name is Sila Nur
+This is our template. Hello My name is Sila Nur

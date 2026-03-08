@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 sidebar: false 
+"B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing."
 ---
 
 # Education
@@ -13,11 +14,9 @@ sidebar: false
 
 1.  ROKETSAN,Project Engineer (Candidate) , 2026
 
-
 ## Internships
 
 1.  Firm TUSAŞ, position Project Engineer, 2025
-
 
 # Projects
 
